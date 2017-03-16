@@ -1,0 +1,19 @@
+{
+  "name": "mini-spy",
+  "version": "1.0.0",
+  "description": "webapp for databases class",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelhoman/mini-spy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelhoman/mini-spy/issues"
+  },
+  "homepage": "https://github.com/joelhoman/mini-spy#readme"
+}
