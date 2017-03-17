@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joelhoman/mini-spy/issues"
   },
-  "homepage": "https://github.com/joelhoman/mini-spy#readme"
+  "homepage": "https://github.com/joelhoman/mini-spy#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1"
+  }
 }
