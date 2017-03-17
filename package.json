@@ -4,6 +4,8 @@
   "description": "webapp for databases class",
   "main": "index.js",
   "scripts": {
+    "start:dev": "./node_modules/.bin/nodemon ./bin/www.js",
+    "lint": "./node_modules/.bin/eslint .",
     "test": "mocha"
   },
   "repository": {
