@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "postgres",
-    "database": "community-dev",
+    "database": "mini-spy-dev",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
@@ -10,7 +10,7 @@
   "test": {
     "username": "postgres",
     "password": "postgres",
-    "database": "community-test",
+    "database": "mini-spy-test",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
@@ -18,7 +18,7 @@
   "production": {
     "username": "postgres",
     "password": "postgres",
-    "database": "community-prod",
+    "database": "mini-spy-prod",
     "host": "127.0.0.1",
     "port": 5432,
     "dialect": "postgres"
