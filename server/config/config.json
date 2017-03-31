@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "postgres",
+    "username": "Mike",
     "password": "postgres",
     "database": "mini-spy-dev",
     "host": "127.0.0.1",
